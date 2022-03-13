@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MihyarSY
 - 👀 I’m interested in ... Programming  
-- 🌱 I’m currently ... learning Computer Science 
+- 🌱 I’m currently learning ... Computer Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... contact.mihyar@gmail.com
 
